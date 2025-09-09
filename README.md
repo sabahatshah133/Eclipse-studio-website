@@ -1,4 +1,3 @@
-# Eclipse-studio-website
 <!DOCTYPE html>
 <html lang="en">
 <head>
